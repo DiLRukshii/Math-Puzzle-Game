@@ -68,7 +68,7 @@ public class GameGUI extends JFrame implements ActionListener {
 /**
 * set variables for the components(level and time)
 */
-	JLabel lblLevel = new JLabel("Level");
+	JLabel lblLevel = new JLabel("Level"); //P.C.Eranda guide me and help me to add this level up method for the game.
 	//Set timer to game
 	JLabel counterLabel;
 	Font font1 = new Font("Arial", Font.PLAIN, 30);	
@@ -156,6 +156,7 @@ public class GameGUI extends JFrame implements ActionListener {
 
 	}
 public void countdownTimer() {// Used the https://www.youtube.com/watch?v=zWw72j-EbqI video to set count down timer for the game
+							 //https://www.ryisnow.online/2021/04/java-beginner-code-sample-create-timer.html
 		
 		timer = new Timer(1000, new ActionListener() {
 			

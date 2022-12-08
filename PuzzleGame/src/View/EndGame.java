@@ -53,7 +53,7 @@ public class EndGame extends JFrame {
 		contentPane.setLayout(null);
 		
 		JLabel lblNewLabel = new JLabel("");
-		lblNewLabel.setIcon(new ImageIcon("E:\\EclipseProjects\\PuzzleGame\\src\\Sources\\gameover.jpg"));
+		lblNewLabel.setIcon(new ImageIcon("C:\\Users\\rushi\\git\\Math-Puzzle-Game\\PuzzleGame\\src\\Sources\\gameover.jpg"));
 		lblNewLabel.setBounds(0, 0, 674, 408);
 		contentPane.add(lblNewLabel);
 		

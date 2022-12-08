@@ -103,7 +103,7 @@ public class Home extends JFrame {
 		contentPane.add(lblHome);
 		
 		JLabel lblNewLabel = new JLabel("");
-		lblNewLabel.setIcon(new ImageIcon("E:\\EclipseProjects\\PuzzleGame\\src\\Sources\\gamehome.png"));
+		lblNewLabel.setIcon(new ImageIcon("C:\\Users\\rushi\\git\\Math-Puzzle-Game\\PuzzleGame\\src\\Sources\\gamehome.png"));
 		lblNewLabel.setBackground(new Color(255, 182, 193));
 		lblNewLabel.setBounds(0, 0, 689, 461);
 		contentPane.add(lblNewLabel);

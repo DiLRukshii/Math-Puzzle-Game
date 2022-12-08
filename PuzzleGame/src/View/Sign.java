@@ -147,7 +147,7 @@ public class Sign extends JDialog {
 		}
 		{
 			JLabel lblNewLabel = new JLabel("");
-			lblNewLabel.setIcon(new ImageIcon("E:\\EclipseProjects\\PuzzleGame\\src\\Sources\\playboy.png"));
+			lblNewLabel.setIcon(new ImageIcon("C:\\Users\\rushi\\git\\Math-Puzzle-Game\\PuzzleGame\\src\\Sources\\playboy.png"));
 			lblNewLabel.setForeground(Color.GREEN);
 			lblNewLabel.setBackground(Color.WHITE);
 			lblNewLabel.setFont(new Font("Tahoma", Font.PLAIN, 12));

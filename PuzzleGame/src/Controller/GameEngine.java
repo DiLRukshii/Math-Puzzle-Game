@@ -68,6 +68,7 @@ public class GameEngine {
 	public int getScore() {
 		return score;
 	}
+	
 //P.C.Eranda guide me and help me to add this level up method for the game.
 	public int getLevel() {
 		// returning the value of level

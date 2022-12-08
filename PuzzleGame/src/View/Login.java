@@ -149,7 +149,7 @@ public class Login extends JFrame {
 		Login.add(btnSignup);
 		
 		JLabel background = new JLabel("");
-		background.setIcon(new ImageIcon("E:\\EclipseProjects\\PuzzleGame\\src\\Sources\\gameback2.png"));
+		background.setIcon(new ImageIcon("C:\\Users\\rushi\\git\\Math-Puzzle-Game\\PuzzleGame\\src\\Sources\\gameback2.png"));
 		background.setForeground(new Color(255, 0, 255));
 		background.setBounds(0, 0, 678, 386);
 		background.setFont(new Font("Tahoma", Font.PLAIN, 20));
